@@ -1,5 +1,5 @@
 # program file
-![program file](FCFS.c)
+![program file](FCSC.c)
 
 # sample output
 ![sample output](programoutput.png)
